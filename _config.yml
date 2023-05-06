@@ -1,6 +1,4 @@
-
 # Theme Settings
-#
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
@@ -15,7 +13,7 @@ title_separator          : "-"
 subtitle                 : "Untiring Learner"
 name                     : "Jeff"
 description              : "Jeff's Code Blog"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://rainboww3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -98,11 +96,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Jeff"
+  avatar           : "/assets/images/Jeff_2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Hi, Nice to meet you!" #"I am an **amazing** person."
+  location         : "Hong Kong / Seoul"
+  email            : "rainboww319@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

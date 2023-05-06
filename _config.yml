@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeff"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello!"\"I am a 3rd year CE student in the University of Hong Kong."\"I am an **amazing** person."
-  location         : "Hong Kong / Seoul"
-  email            : "rainboww319@gmail.com"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

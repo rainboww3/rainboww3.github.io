@@ -12,6 +12,6 @@ I am trying to elaborate this blog by introducing new interesting tech stacks I 
 
 Hope you enjoy and get new informations from my blog.
 
-You're welcome to visit my [github][git-link] for more information.
+You're welcome to visit my [Github][git-link] for more information.
 
 [git-link]: https://github.com/rainboww3
